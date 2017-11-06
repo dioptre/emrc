@@ -1,4 +1,4 @@
-# Electronic medical record coin. (EMRC)
+# Global human health database
 
 ## Why
 * I met with the national director of health for a smaller country who mentioned their medical record system was in disarray, and needed a decentralized and methodical way to obfuscate and share patient data.
