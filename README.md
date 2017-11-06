@@ -27,6 +27,8 @@ Loosely thinking something like:
 * Alt Payment system - could be something like Filecoin, could be a sidechain on the lightning network with takebacks for unfulfilled promises - sidechains could be implemented with shared addresses (shared public keys across coins)
 * User data could be indexed via addresses  - and a single user could have multiple addresses based on data types to be stored.
 * OpenEMR for health records (need something more interesting to include research data)
+* Trafodion for public data
+* Elastic for search
 
 ## Contributors
 
