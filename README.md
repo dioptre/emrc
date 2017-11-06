@@ -21,10 +21,10 @@
 
 ## How
 Loosely thinking something like:
-* Corda (mitigates public risk, and provides counterparty solution - notaries are redundant so can be removed)
+* Corda (mitigates public risk, and provides counterparty solution - notaries are redundant so can be removed but need to keep in mind BFT https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
 * IPFS (global storage - clusters available, but independent trusted counterparty stroage is required)
-* Filecoin (storage should be paid for, not sure of the implementation or the legitimacy of the whitepapers - but the idea behind it is good - again needs to be separated into trusted/firewalled clusters)
-* Alt Payment system - could be something like Filecoin, could be a sidechain on the lightning network with takebacks for unfulfilled promises - sidechains could be implemented with shared addresses (shared public keys across coins)
+* Filecoin (storage should be paid for, not sure of the implementation or the legitimacy of the whitepapers https://filecoin.io/proof-of-replication.pdf - but the idea behind it is good - again needs to be separated into trusted/firewalled clusters) https://filecoin.io/filecoin.pdf
+* Alt Payment system - could be something like Filecoin, could be a sidechain on the lightning network with takebacks for unfulfilled promises - sidechains could be implemented with shared addresses (shared public keys across coins) http://lightning.network/lightning-network-paper.pdf http://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf
 * User data could be indexed via addresses  - and a single user could have multiple addresses based on data types to be stored.
 * OpenEMR for health records (need something more interesting to include research data)
 * Trafodion for public data
