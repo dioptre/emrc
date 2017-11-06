@@ -36,6 +36,8 @@ Email me and let's do this.
 
 ## Future considerations
 * Search records
+* Political sensitive data
+* Truly private internet
 
 
 
