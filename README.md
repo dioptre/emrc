@@ -14,9 +14,10 @@
 ## Requirements
 1. Need a method to exchange health data
 2. Counterparties should be known or a proxy representative
-3. No data should be public even if it's encrypted. (Why? Look into elliptical cryptography, NSA, quantum computing)
-4. People should be paid to store the data. They can choose to store it with a trusted 3rd party or directly for a health insurer/provider.
-5. Should be easy for existing products and services to interoperate with it.
+3. No "private" data should be public even if it's encrypted. (Why? Look into elliptical cryptography, NSA, quantum computing)
+4. "Public" data should be difficult to determine the owner. Searchable, and usable for research publicly.
+5. People should be paid to store the data. They can choose to store it with a trusted 3rd party or directly for a health insurer/provider.
+6. Should be easy for existing products and services to interoperate with it.
 
 ## How
 Loosely thinking something like:
