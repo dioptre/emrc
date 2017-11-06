@@ -39,7 +39,7 @@ Email me and let's do this.
 * Political sensitive data
 * Truly private internet
 
-# Reading
+## Reading
 * [Andy's research on pocket](http://sharedli.st/dioptre#)
 
 
