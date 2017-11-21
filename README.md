@@ -1,5 +1,9 @@
 # Global human health database
 
+## Resources
+* Homepage [medgraph.io](medgraph.io)
+* [Top Level Architecture](https://www.draw.io/#G1lAaM-LQrw81S_t7lRKxwoz7YMOKBchuf)
+
 ## Why
 * I met with the national director of health for a smaller country who mentioned their medical record system was in disarray, and needed a decentralized and methodical way to obfuscate and share patient data.
 * I have a friend who is a doctor who mentioned our medical records didn't belong to us.
