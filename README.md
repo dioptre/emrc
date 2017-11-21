@@ -1,7 +1,7 @@
 # Global human health database
 
 ## Resources
-* Homepage [medgraph.io](medgraph.io)
+* Homepage [medgraph.io](http://medgraph.io)
 * [Top Level Architecture](https://www.draw.io/#G1lAaM-LQrw81S_t7lRKxwoz7YMOKBchuf)
 
 ## Why
