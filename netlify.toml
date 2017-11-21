@@ -7,5 +7,5 @@
 
 [build]
   base    = "docs"
-  publish = "_site"
+  publish = "docs/_site"
   command = "jekyll build"
